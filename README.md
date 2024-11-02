@@ -59,8 +59,6 @@ The project dependencies are managed through Maven, which automatically handles 
 - **Allure TestNG** for reporting.
 - **AspectJ Weaver** for AOP (Aspect-Oriented Programming) support.
 
-For the complete list of dependencies, please refer to the [`pom.xml`](https://github.com/ChatGTHB/ParabankTestAutomation/blob/main/pom.xml) file.
-
 ## ⚙️ Usage
 ### Running Tests
 You can run the tests either from the terminal or directly in IntelliJ IDEA.
