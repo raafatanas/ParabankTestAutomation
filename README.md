@@ -112,4 +112,4 @@ If you encounter issues:
 2. Check configurations in `pom.xml`.
 3. For CI/CD issues, verify Jenkins configurations and Allure plugins.
 
-For more information on how to get started, visit the [ParabankTestAutomation GitHub repository](https://github.com/ChatGTHB/ParabankTestAutomation).
+For more information on how to get started, visit the [ParabankTestAutomation GitHub repository](https://github.com/raafatanas/ParabankTestAutomation.git).
