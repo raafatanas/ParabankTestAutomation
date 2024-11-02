@@ -43,13 +43,13 @@ src
 ### Cloning the Repository
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/ChatGTHB/ParabankTestAutomation.git
+git clone https://github.com/raafatanas/ParabankTestAutomation.git
 ```
 
 ### Importing into IntelliJ IDEA from VCS
 1. Open IntelliJ IDEA.
 2. Go to `File > New > Project from Version Control`.
-3. Select `Git` and enter the repository URL: `https://github.com/ChatGTHB/ParabankTestAutomation.git`.
+3. Select `Git` and enter the repository URL: `https://github.com/raafatanas/ParabankTestAutomation.git`.
 4. Click `Clone`.
 
 ### Dependencies
@@ -111,19 +111,5 @@ If you encounter issues:
 1. Verify Maven dependencies are correctly configured.
 2. Check configurations in `pom.xml`.
 3. For CI/CD issues, verify Jenkins configurations and Allure plugins.
-
-## 👥 Contributors
-- [ChatGTHB](https://github.com/ChatGTHB)
-
-## 🤝 Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a Pull Request.
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 For more information on how to get started, visit the [ParabankTestAutomation GitHub repository](https://github.com/ChatGTHB/ParabankTestAutomation).
